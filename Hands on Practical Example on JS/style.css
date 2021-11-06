@@ -1,0 +1,28 @@
+
+button {
+    border 1 px solid #700;
+    padding: 15px;
+    color: #fff;
+    background: #700;
+    border-radius: 5px;
+    transition: all 0.5s;
+    font-size: 20px;
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+button:hover {
+        border 1 px solid #700;
+        padding: 15px;
+        color: #700;
+        background: #fff;
+        border-radius: 5px;
+        transition: all 0.5s;
+        font-size: 20px;
+}
+img {
+    height:350px;
+}
+p{
+    margin-left:8%;
+}
